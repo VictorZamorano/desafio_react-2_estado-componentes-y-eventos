@@ -1,0 +1,22 @@
+#root {
+	text-align: center;
+	background-color: #243763;
+}
+
+h1 {
+	color: #ff6e31;
+}
+
+p {
+	font-weight: 800;
+	color: #ffebb7;
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+}
+
+form {
+	width: 50vw;
+}
